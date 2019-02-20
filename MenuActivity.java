@@ -1,4 +1,4 @@
-package com.example.martinee.blockuiapp;
+package blockdasher;
 
 import android.app.Activity;
 import android.content.Intent;
