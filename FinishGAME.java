@@ -1,6 +1,7 @@
-package com.example.martinee.blockuiapp;
+package package blockdasher;
 
 //        import javax.swing.JOptionPane;
+//        DEPRECATED
 
 public class FinishGAME {
 //    BlockControl bc;
